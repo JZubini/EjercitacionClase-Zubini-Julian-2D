@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NhhenmhV4NwcHOUqO3L9W46waZjW+Y5CpuLFBnjRWwmpYAYDWfuIc1pHTMQGriX7oG2ZAi28CUUcVWKnemTyxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julián Zubini\\Documents\\Laboratorio\\EjerciciosClase\\Ejercicio I01 - Máximo, mínimo y promedio\\Ejercicio I01 - Máximo, mínimo y promedio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

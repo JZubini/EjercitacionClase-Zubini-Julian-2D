@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XIMHS8pNvXGcC6twGvLwHzNs/K+843+BtG6KElny4VUFi0pj1RwVJs2Ule5IysTbqO89p60E1JGShXDeIU4PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julián Zubini\\Documents\\Laboratorio\\EjerciciosClase\\Ejercicio I02 - Error al cubo\\Ejercicio I02 - Error al cubo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.exe
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.deps.json
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.runtimeconfig.json
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.runtimeconfig.dev.json
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\ref\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.pdb
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.AssemblyInfoInputs.cache
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.AssemblyInfo.cs
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.csproj.CoreCompileInputs.cache
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\ref\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.pdb
+C:\Users\Julián Zubini\Documents\Laboratorio\EjerciciosClase\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.genruntimeconfig.cache

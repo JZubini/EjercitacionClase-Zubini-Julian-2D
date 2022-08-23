@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "640dcc80-a9be-40bc-a286-1adbc8ea1ac6": {
+      "ProjectGuid": "640dcc80-a9be-40bc-a286-1adbc8ea1ac6",
+      "DisplayName": "Ejercicio I01 - Máximo, mínimo y promedio",
+      "ColorIndex": 0
+    },
+    "0ec2362a-3182-4f1c-95f7-fcbd0fc8a300": {
+      "ProjectGuid": "0ec2362a-3182-4f1c-95f7-fcbd0fc8a300",
+      "DisplayName": "Ejercicio I02 - Error al cubo",
+      "ColorIndex": 1
+    },
+    "efb0325a-0e97-46f9-9583-1fddfdde9648": {
+      "ProjectGuid": "efb0325a-0e97-46f9-9583-1fddfdde9648",
+      "DisplayName": "Ejercicio I03 - Los primos",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
