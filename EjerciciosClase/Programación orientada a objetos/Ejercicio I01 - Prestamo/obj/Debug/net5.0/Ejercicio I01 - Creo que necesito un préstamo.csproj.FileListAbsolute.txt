@@ -1,0 +1,16 @@
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.exe
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.deps.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.runtimeconfig.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.runtimeconfig.dev.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.AssemblyReference.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.AssemblyInfoInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.AssemblyInfo.cs
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.CoreCompileInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\refint\Ejercicio I01 - Creo que necesito un préstamo.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.genruntimeconfig.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\ref\Ejercicio I01 - Creo que necesito un préstamo.dll

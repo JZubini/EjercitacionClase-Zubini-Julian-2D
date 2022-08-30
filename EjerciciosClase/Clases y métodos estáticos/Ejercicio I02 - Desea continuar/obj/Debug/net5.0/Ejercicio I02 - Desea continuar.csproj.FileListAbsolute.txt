@@ -1,0 +1,19 @@
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.exe
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.deps.json
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.runtimeconfig.json
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.runtimeconfig.dev.json
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.dll
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\ref\Ejercicio I02 - Desea continuar.dll
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.pdb
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.csproj.AssemblyReference.cache
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.AssemblyInfoInputs.cache
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.AssemblyInfo.cs
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.csproj.CoreCompileInputs.cache
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.csproj.CopyComplete
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.dll
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\ref\Ejercicio I02 - Desea continuar.dll
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.pdb
+C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jl+UwIumfWKnh+78gZRDCREHRFR3Lpy0npSUTigPsECroCwQ3ZQkht1bIejOm3lr4VCMKOBbOvn3qwrYF9QABA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julián Zubini\\Documents\\UTN - Programación\\Ejercicios repo\\EjerciciosClase\\Programación orientada a objetos\\Ejercicio A02 - La veterinaria\\Ejercicio A02 - La veterinaria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

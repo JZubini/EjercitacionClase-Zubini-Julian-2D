@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1M91FLmkKrWIDvn6L2fiRK1Z5wEKRJcYfbGFsTiNUGboOcsZ+7h3oGp69doO6xkK+H4q0QdTUMZuINmDWEL9bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julián Zubini\\Documents\\UTN - Programación\\Ejercicios repo\\EjerciciosClase\\Programación orientada a objetos\\Ejercicio I03 - El ejemplo universal\\Ejercicio I03 - El ejemplo universal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

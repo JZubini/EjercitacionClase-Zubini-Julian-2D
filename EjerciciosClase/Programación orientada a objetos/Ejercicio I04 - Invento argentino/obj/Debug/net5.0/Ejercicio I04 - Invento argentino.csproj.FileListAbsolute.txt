@@ -1,0 +1,16 @@
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.csproj.AssemblyReference.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.AssemblyInfoInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.AssemblyInfo.cs
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.csproj.CoreCompileInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.exe
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.deps.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.runtimeconfig.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.runtimeconfig.dev.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\refint\Ejercicio I04 - Invento argentino.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.genruntimeconfig.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\ref\Ejercicio I04 - Invento argentino.dll

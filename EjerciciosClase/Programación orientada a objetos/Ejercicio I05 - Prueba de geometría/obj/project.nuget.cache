@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t25Ms5N20xXBa0W14PRof/uxN1snPNMEsGkOejSPqQj4N4haaEl0w0ENXoliEZgrgUImqPAcrRK4dJjz8CfCOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julián Zubini\\Documents\\UTN - Programación\\Ejercicios repo\\EjerciciosClase\\Programación orientada a objetos\\Ejercicio I05 - Prueba de geometría\\Ejercicio I05 - Prueba de geometría.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

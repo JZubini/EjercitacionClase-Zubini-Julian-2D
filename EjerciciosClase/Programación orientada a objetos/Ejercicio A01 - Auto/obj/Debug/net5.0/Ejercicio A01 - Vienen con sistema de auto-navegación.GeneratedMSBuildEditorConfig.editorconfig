@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ejercicio_A01___Vienen_con_sistema_de_auto_navegación
+build_property.ProjectDir = C:\Users\Julián Zubini\Documents\UTN - Programación\Ejercicios repo\EjerciciosClase\Ejercicio A01 - Vienen con sistema de auto-navegación\

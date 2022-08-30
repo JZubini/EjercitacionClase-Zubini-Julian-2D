@@ -1,21 +1,76 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "640dcc80-a9be-40bc-a286-1adbc8ea1ac6": {
-      "ProjectGuid": "640dcc80-a9be-40bc-a286-1adbc8ea1ac6",
+    "509b588c-8118-45b6-8b07-bf3770084952": {
+      "ProjectGuid": "509b588c-8118-45b6-8b07-bf3770084952",
       "DisplayName": "Ejercicio I01 - Máximo, mínimo y promedio",
       "ColorIndex": 0
     },
-    "0ec2362a-3182-4f1c-95f7-fcbd0fc8a300": {
-      "ProjectGuid": "0ec2362a-3182-4f1c-95f7-fcbd0fc8a300",
-      "DisplayName": "Ejercicio I02 - Error al cubo",
+    "4e4601b7-3b7f-4525-808a-05619056b097": {
+      "ProjectGuid": "4e4601b7-3b7f-4525-808a-05619056b097",
+      "DisplayName": "Ejercicio A02 - La veterinaria",
       "ColorIndex": 1
     },
-    "efb0325a-0e97-46f9-9583-1fddfdde9648": {
-      "ProjectGuid": "efb0325a-0e97-46f9-9583-1fddfdde9648",
-      "DisplayName": "Ejercicio I03 - Los primos",
+    "22c739ec-8a49-4ee8-a79d-35a104d102db": {
+      "ProjectGuid": "22c739ec-8a49-4ee8-a79d-35a104d102db",
+      "DisplayName": "Ejercicio I02 - Error al cubo",
       "ColorIndex": 2
+    },
+    "6e3bf384-8f11-4c9f-8379-27f1b43d6e8f": {
+      "ProjectGuid": "6e3bf384-8f11-4c9f-8379-27f1b43d6e8f",
+      "DisplayName": "Ejercicio A01 - Vienen con sistema de auto-navegación",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "231bc69e-2241-482e-9d80-6156a08db172": {
+      "ProjectGuid": "231bc69e-2241-482e-9d80-6156a08db172",
+      "DisplayName": "Ejercicio A02 - La veterinaria",
+      "ColorIndex": 4
+    },
+    "11a4abc2-2363-43dc-89bb-7d3a1e0aa607": {
+      "ProjectGuid": "11a4abc2-2363-43dc-89bb-7d3a1e0aa607",
+      "DisplayName": "Ejercicio I01 - Creo que necesito un préstamo",
+      "ColorIndex": 5
+    },
+    "fae25997-942f-4b3c-9591-e15e73c898ed": {
+      "ProjectGuid": "fae25997-942f-4b3c-9591-e15e73c898ed",
+      "DisplayName": "Ejercicio I03 - El ejemplo universal",
+      "ColorIndex": 6
+    },
+    "80788e82-0986-44e7-970d-d15756caa482": {
+      "ProjectGuid": "80788e82-0986-44e7-970d-d15756caa482",
+      "DisplayName": "Ejercicio I04 - Invento argentino",
+      "ColorIndex": 7
+    },
+    "36a4aba1-84e7-47f1-a1bd-47d1c0a9ebde": {
+      "ProjectGuid": "36a4aba1-84e7-47f1-a1bd-47d1c0a9ebde",
+      "DisplayName": "Ejercicio I05 - Prueba de geometría",
+      "ColorIndex": 8
+    },
+    "6cb16bbf-e73b-460d-9958-1c52ebab0a9e": {
+      "ProjectGuid": "6cb16bbf-e73b-460d-9958-1c52ebab0a9e",
+      "DisplayName": "Ejercicio I01 - Validador de rangos",
+      "ColorIndex": 9
+    },
+    "3c381191-8b18-44ce-9f56-47d637b97dc2": {
+      "ProjectGuid": "3c381191-8b18-44ce-9f56-47d637b97dc2",
+      "DisplayName": "Biblioteca",
+      "ColorIndex": 10
+    },
+    "2b30c872-ff99-4a8f-b615-779608a4b644": {
+      "ProjectGuid": "2b30c872-ff99-4a8f-b615-779608a4b644",
+      "DisplayName": "Ejercicio I02 - Desea continuar",
+      "ColorIndex": 11
+    },
+    "10946279-75b3-4509-b22a-202d40867788": {
+      "ProjectGuid": "10946279-75b3-4509-b22a-202d40867788",
+      "DisplayName": "Ejercicio I03 - Conversor binario",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 13
 }

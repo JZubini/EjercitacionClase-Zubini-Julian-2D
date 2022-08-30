@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio A01 - Vienen con sistema de auto-navegación/1.0.0": {
+        "runtime": {
+          "Ejercicio A01 - Vienen con sistema de auto-navegación.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio A01 - Vienen con sistema de auto-navegación/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
