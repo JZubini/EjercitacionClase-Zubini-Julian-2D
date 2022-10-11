@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9sXPDxZXU9Zz1SKdoqoyJr7cupAyOIEiFumpO3Tu6d2v0iWIJLpyPREJSNpSxCKXUBZR06lpEgOKky/0+E4SVw==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\EjerciciosClase\\Ejercicio I01 - Program\\Ejercicio I01 - Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

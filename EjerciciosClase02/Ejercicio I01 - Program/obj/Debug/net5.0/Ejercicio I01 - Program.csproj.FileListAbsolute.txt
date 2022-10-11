@@ -1,0 +1,19 @@
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\bin\Debug\net5.0\Ejercicio I01 - Program.exe
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\bin\Debug\net5.0\Ejercicio I01 - Program.deps.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\bin\Debug\net5.0\Ejercicio I01 - Program.runtimeconfig.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\bin\Debug\net5.0\Ejercicio I01 - Program.runtimeconfig.dev.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\bin\Debug\net5.0\Ejercicio I01 - Program.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\bin\Debug\net5.0\Ejercicio I01 - Program.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\bin\Debug\net5.0\Library.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\bin\Debug\net5.0\Library.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\obj\Debug\net5.0\Ejercicio I01 - Program.csproj.AssemblyReference.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\obj\Debug\net5.0\Ejercicio I01 - Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\obj\Debug\net5.0\Ejercicio I01 - Program.AssemblyInfoInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\obj\Debug\net5.0\Ejercicio I01 - Program.AssemblyInfo.cs
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\obj\Debug\net5.0\Ejercicio I01 - Program.csproj.CoreCompileInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\obj\Debug\net5.0\Ejercicio I01 - Program.csproj.CopyComplete
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\obj\Debug\net5.0\Ejercicio I01 - Program.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\obj\Debug\net5.0\refint\Ejercicio I01 - Program.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\obj\Debug\net5.0\Ejercicio I01 - Program.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\obj\Debug\net5.0\Ejercicio I01 - Program.genruntimeconfig.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio I01 - Program\obj\Debug\net5.0\ref\Ejercicio I01 - Program.dll

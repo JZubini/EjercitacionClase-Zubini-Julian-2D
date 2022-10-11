@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d015649-9eaf-4ab3-a599-333b641a632d": {
+      "ProjectGuid": "3d015649-9eaf-4ab3-a599-333b641a632d",
+      "DisplayName": "Central",
+      "ColorIndex": 0
+    },
+    "c8263adc-cbbc-4417-b89b-db47192aad92": {
+      "ProjectGuid": "c8263adc-cbbc-4417-b89b-db47192aad92",
+      "DisplayName": "CentralTelefonica",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

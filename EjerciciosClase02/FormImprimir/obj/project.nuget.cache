@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjThLZ1L5DAHwdUqblF3Hv68WTh8ais9+Eh0oiC0fmD1eYFK6cupN10jGvVNnju0og8Ql10QJ6aEp2X3V+B4gA==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\EjerciciosClase\\FormImprimir\\FormImprimir.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

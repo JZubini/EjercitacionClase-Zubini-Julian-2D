@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sSCG0CVpx9JdHfkGedpKdaG4h8j6JmbfbdbPJ7fkcAp0m0Vv67yLUMDoZEiVgNVuufLFLx108Cfj+FTATg/Kkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julián Zubini\\Documents\\UTN - Programación\\Ejercicios repo\\EjerciciosClase\\Ejercicio I01 - ¡Hola, Windows Forms!\\Ejercicio I01 - ¡Hola, Windows Forms!.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

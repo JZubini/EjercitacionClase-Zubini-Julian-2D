@@ -1,0 +1,12 @@
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\bin\Debug\net5.0\Ejercicios C01 - Biblioteca.deps.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\bin\Debug\net5.0\Ejercicios C01 - Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\bin\Debug\net5.0\Ejercicios C01 - Biblioteca.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\obj\Debug\net5.0\Ejercicios C01 - Biblioteca.csproj.AssemblyReference.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\obj\Debug\net5.0\Ejercicios C01 - Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\obj\Debug\net5.0\Ejercicios C01 - Biblioteca.AssemblyInfoInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\obj\Debug\net5.0\Ejercicios C01 - Biblioteca.AssemblyInfo.cs
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\obj\Debug\net5.0\Ejercicios C01 - Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\obj\Debug\net5.0\Ejercicios C01 - Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\obj\Debug\net5.0\refint\Ejercicios C01 - Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\obj\Debug\net5.0\Ejercicios C01 - Biblioteca.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicios C01 - Biblioteca\obj\Debug\net5.0\ref\Ejercicios C01 - Biblioteca.dll

@@ -1,0 +1,12 @@
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\obj\Debug\net5.0\Ejercicio C01 - Jugadores encapsulados - Biblioteca.csproj.AssemblyReference.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\obj\Debug\net5.0\Ejercicio C01 - Jugadores encapsulados - Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\obj\Debug\net5.0\Ejercicio C01 - Jugadores encapsulados - Biblioteca.AssemblyInfoInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\obj\Debug\net5.0\Ejercicio C01 - Jugadores encapsulados - Biblioteca.AssemblyInfo.cs
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\obj\Debug\net5.0\Ejercicio C01 - Jugadores encapsulados - Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\bin\Debug\net5.0\Ejercicio C01 - Jugadores encapsulados - Biblioteca.deps.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\bin\Debug\net5.0\Ejercicio C01 - Jugadores encapsulados - Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\bin\Debug\net5.0\Ejercicio C01 - Jugadores encapsulados - Biblioteca.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\obj\Debug\net5.0\Ejercicio C01 - Jugadores encapsulados - Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\obj\Debug\net5.0\refint\Ejercicio C01 - Jugadores encapsulados - Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\obj\Debug\net5.0\Ejercicio C01 - Jugadores encapsulados - Biblioteca.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ejercicio C01 - Jugadores encapsulados - Biblioteca\obj\Debug\net5.0\ref\Ejercicio C01 - Jugadores encapsulados - Biblioteca.dll

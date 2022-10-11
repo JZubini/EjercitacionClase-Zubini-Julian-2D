@@ -1,0 +1,12 @@
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\bin\Debug\net5.0\Biblioteca (Ejercicio C02 - Enciendan sus motores).deps.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\bin\Debug\net5.0\Biblioteca (Ejercicio C02 - Enciendan sus motores).dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\bin\Debug\net5.0\Biblioteca (Ejercicio C02 - Enciendan sus motores).pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\obj\Debug\net5.0\Biblioteca (Ejercicio C02 - Enciendan sus motores).csproj.AssemblyReference.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\obj\Debug\net5.0\Biblioteca (Ejercicio C02 - Enciendan sus motores).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\obj\Debug\net5.0\Biblioteca (Ejercicio C02 - Enciendan sus motores).AssemblyInfoInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\obj\Debug\net5.0\Biblioteca (Ejercicio C02 - Enciendan sus motores).AssemblyInfo.cs
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\obj\Debug\net5.0\Biblioteca (Ejercicio C02 - Enciendan sus motores).csproj.CoreCompileInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\obj\Debug\net5.0\Biblioteca (Ejercicio C02 - Enciendan sus motores).dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\obj\Debug\net5.0\refint\Biblioteca (Ejercicio C02 - Enciendan sus motores).dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\obj\Debug\net5.0\Biblioteca (Ejercicio C02 - Enciendan sus motores).pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblioteca (Ejercicio C02 - Enciendan sus motores)\obj\Debug\net5.0\ref\Biblioteca (Ejercicio C02 - Enciendan sus motores).dll

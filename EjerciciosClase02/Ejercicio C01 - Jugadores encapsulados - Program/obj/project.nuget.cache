@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qRXWorMn6/xdZ5HkbZqh++Vk4ivL/wlxbD9BsbAtg/aTGgpniZSkyMBenDLOL7Lw5PDpG9mzuBluHd0uF1Bn7Q==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\EjerciciosClase\\Ejercicio C01 - Jugadores encapsulados - Program\\Ejercicio C01 - Jugadores encapsulados - Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "36cmMfROAi3ZORodJzU9zbHL/pzhdN4VHkmQzyj3aEA+j9frTVw1wbs1G0xGGsZyxQMAIplkvnmevVlBFJSvNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julián Zubini\\Documents\\UTN - Programación\\Ejercicios repo\\EjerciciosClase\\Programación orientada a objetos\\Ejercicio I02 - Primavera\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

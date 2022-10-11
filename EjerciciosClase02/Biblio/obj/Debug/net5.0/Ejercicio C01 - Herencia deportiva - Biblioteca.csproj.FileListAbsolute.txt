@@ -1,0 +1,12 @@
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\obj\Debug\net5.0\Ejercicio C01 - Herencia deportiva - Biblioteca.csproj.AssemblyReference.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\obj\Debug\net5.0\Ejercicio C01 - Herencia deportiva - Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\obj\Debug\net5.0\Ejercicio C01 - Herencia deportiva - Biblioteca.AssemblyInfoInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\obj\Debug\net5.0\Ejercicio C01 - Herencia deportiva - Biblioteca.AssemblyInfo.cs
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\obj\Debug\net5.0\Ejercicio C01 - Herencia deportiva - Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\bin\Debug\net5.0\Ejercicio C01 - Herencia deportiva - Biblioteca.deps.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\bin\Debug\net5.0\Ejercicio C01 - Herencia deportiva - Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\bin\Debug\net5.0\Ejercicio C01 - Herencia deportiva - Biblioteca.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\obj\Debug\net5.0\Ejercicio C01 - Herencia deportiva - Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\obj\Debug\net5.0\refint\Ejercicio C01 - Herencia deportiva - Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\obj\Debug\net5.0\Ejercicio C01 - Herencia deportiva - Biblioteca.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Biblio\obj\Debug\net5.0\ref\Ejercicio C01 - Herencia deportiva - Biblioteca.dll

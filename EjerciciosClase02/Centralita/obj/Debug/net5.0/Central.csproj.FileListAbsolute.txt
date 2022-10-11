@@ -1,0 +1,12 @@
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\bin\Debug\net5.0\Central.deps.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\bin\Debug\net5.0\Central.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\bin\Debug\net5.0\Central.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\obj\Debug\net5.0\Central.csproj.AssemblyReference.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\obj\Debug\net5.0\Central.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\obj\Debug\net5.0\Central.AssemblyInfoInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\obj\Debug\net5.0\Central.AssemblyInfo.cs
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\obj\Debug\net5.0\Central.csproj.CoreCompileInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\obj\Debug\net5.0\Central.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\obj\Debug\net5.0\refint\Central.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\obj\Debug\net5.0\Central.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Centralita\obj\Debug\net5.0\ref\Central.dll

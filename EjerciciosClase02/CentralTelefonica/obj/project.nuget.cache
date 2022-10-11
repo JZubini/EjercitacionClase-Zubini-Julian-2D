@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hitc9JG3/c7nYhzEtGQexwNGJqXssZiLl3IumrharmP9eLL8hPAC3fELV1fCOkYD2H1fkaku6yG9WYPrZ2K3JQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\EjerciciosClase\\CentralTelefonica\\CentralTelefonica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

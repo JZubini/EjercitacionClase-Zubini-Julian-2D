@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gss9XDjSkEfQTJg08mF+nxig/fYxQXa0JgfA2OBOJ6tp17gZjHWH/KzApoevNOqPn8xrvfYOMq1UypKk1hVX4A==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\EjerciciosClase\\FormPresentacion\\FormPresentacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

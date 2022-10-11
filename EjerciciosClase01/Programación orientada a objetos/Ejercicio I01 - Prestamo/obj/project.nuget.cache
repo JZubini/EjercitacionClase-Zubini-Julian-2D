@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GmPXAcp3hqZ/z98jzAub0u64T74gcsNp3/8GXuQ/rsbl9VIXm79FY5oKpjqHF/1n5WrJFdygSTfOiAmrgu3+mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julián Zubini\\Documents\\UTN - Programación\\Ejercicios repo\\EjerciciosClase\\Programación orientada a objetos\\Ejercicio I01 - Prestamo\\Ejercicio I01 - Prestamo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

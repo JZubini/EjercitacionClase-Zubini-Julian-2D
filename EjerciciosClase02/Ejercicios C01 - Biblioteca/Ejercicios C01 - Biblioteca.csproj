@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Ejercicios_C01___Biblioteca</RootNamespace>
+  </PropertyGroup>
+
+</Project>

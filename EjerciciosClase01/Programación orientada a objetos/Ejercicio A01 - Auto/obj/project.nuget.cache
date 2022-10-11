@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxKQrOPvRgvupqZId19ksY5jGXszoc6YPNG1AHDwWq1D3E1IoqVrNGOSm/JkdsX+ZsIXmKgtQfKNctQWn+uKOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julián Zubini\\Documents\\UTN - Programación\\Ejercicios repo\\EjerciciosClase\\Programación orientada a objetos\\Ejercicio A01 - Auto\\Ejercicio A01 - Auto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

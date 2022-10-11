@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CentralTelefonica/1.0.0": {
+        "dependencies": {
+          "Central": "1.0.0"
+        },
+        "runtime": {
+          "CentralTelefonica.dll": {}
+        }
+      },
+      "Central/1.0.0": {
+        "runtime": {
+          "Central.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CentralTelefonica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Central/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
