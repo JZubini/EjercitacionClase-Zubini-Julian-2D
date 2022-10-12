@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Program__Ejercicio_C02___Enciendan_sus_motores_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca (Ejercicio C02 - Enciendan sus motores)\Biblioteca (Ejercicio C02 - Enciendan sus motores).csproj" />
+  </ItemGroup>
+
+</Project>

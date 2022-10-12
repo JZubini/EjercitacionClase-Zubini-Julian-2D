@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Program (Ejercicio C02 - Enciendan sus motores)/1.0.0": {
+        "runtime": {
+          "Program (Ejercicio C02 - Enciendan sus motores).dll": {}
+        }
+      },
+      "Biblioteca (Ejercicio C02 - Enciendan sus motores)/1.0.0": {
+        "runtime": {
+          "Biblioteca (Ejercicio C02 - Enciendan sus motores).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program (Ejercicio C02 - Enciendan sus motores)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca (Ejercicio C02 - Enciendan sus motores)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

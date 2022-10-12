@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "09w2t0wvyV7A+am8EjOEu8HFWUKWzO1YrJtAJLmVMKlsg4QDacSKEPOTWHLAzMAVN5yymm23aRMj/TrBEn8eTw==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\EjerciciosClase\\Program (Ejercicio C02 - Enciendan sus motores)\\Program (Ejercicio C02 - Enciendan sus motores).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Zubini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

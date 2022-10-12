@@ -1,0 +1,12 @@
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\jzubini\source\repos\EjerciciosClase\Ingresante\obj\Debug\net5.0\ref\Biblioteca.dll
